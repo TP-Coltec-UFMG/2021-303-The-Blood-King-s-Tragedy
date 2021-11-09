@@ -1,3 +1,5 @@
+Integrantes do grupo: Sergio, Matheus, Luiz, Raphael Luz e Guilherme
+
 # Funcionamento do Menu:
 
 
@@ -14,3 +16,4 @@ Cada um dos botões tem configurado em si qual é o próximo e o anterior para q
 Para parte de acessibilidade ultilizamos um pluguin com recursos para implementar a áudio descrição dos elementos de nosso menu.
 
 ![image](https://user-images.githubusercontent.com/84201043/134445931-4b8704e0-5f9a-47e7-8724-1c8dad70ed67.png)
+
